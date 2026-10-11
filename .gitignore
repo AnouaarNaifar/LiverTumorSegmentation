@@ -1,0 +1,42 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# LiTS medical-imaging data: keep it local and download it separately
+dataset/
+*.nii
+*.nii.gz
+*.dcm
+
+# Training checkpoints and generated experiment artifacts
+checkpoints/
+**/checkpoints/
+*.pth
+*.pt
+*.ckpt
+outputs/
+**/outputs/
+capture/
+*.zip
+
+# Duplicate notebook produced by a local extraction
+no_attention/no_attention/o_attention/améiloration_fixed_no_attention.ipynb
+
+# Local notebook exports and logs
+*.log
+*.html
+*.pdf
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,12 @@
+{
+  "score": -0.6618948152904609,
+  "params": {
+    "weight_ce": 0.2836963163912251,
+    "batch_size": 12,
+    "liver_threshold": 0.6140703845572054,
+    "tumor_threshold": 0.1798695128633439,
+    "optimizer_name": "AdamW",
+    "learning_rate": 0.00043625993625605574,
+    "weight_decay": 3.247673570627447e-05
+  }
+}

@@ -1,0 +1,800 @@
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_001.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_002.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_003.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_004.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_005.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_006.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_007.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_008.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_009.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_010.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_011.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_012.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_013.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_014.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_015.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_016.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_017.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_018.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_019.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])
+
+=== epoch_020.pth ===
+<class 'dict'>
+dict_keys(['epoch', 'epoch_1_based', 'batch_idx', 'model_state_dict', 'optimizer_state_dict', 'best_val_dice', 'avg_train_loss', 'avg_val_dice', 'stage', 'experiment'])

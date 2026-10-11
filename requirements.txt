@@ -1,0 +1,13 @@
+# Install a CUDA-compatible PyTorch build from https://pytorch.org/get-started/locally/
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+seaborn
+nibabel
+tqdm
+optuna
+jupyter
+ipykernel
